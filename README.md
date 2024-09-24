@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/SdoQ42F.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://imgur.com/gallery/web-102-project-1-o7qGvb5
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap.  
 <!-- Recommended tools:
